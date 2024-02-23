@@ -30,6 +30,6 @@ skills:
   url: "https://git-scm.com/"
 
 - name: Windows
-  logo: /images/sections/skills/windows.png
+  #logo: /images/sections/skills/windows.png
   summary: "10+ years of experience. Capable of writing scripts."
   url: "https://git-scm.com/"
