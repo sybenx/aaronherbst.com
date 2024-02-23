@@ -26,7 +26,7 @@ skills:
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab and Gitea."
   url: "https://git-scm.com/"
 
 - name: Windows
