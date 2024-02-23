@@ -17,12 +17,13 @@ skills:
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Experiencing hosting docker software."
+  summary: "Experience hosting docker software."
   url: "https://www.docker.com/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
   summary: "3+ years of experience."
+  url: "https://en.wikipedia.org/wiki/Linux"
 
 - name: Git
   logo: /images/sections/skills/git.png
@@ -32,4 +33,4 @@ skills:
 - name: Windows
   #logo: /images/sections/skills/windows.png
   summary: "10+ years of experience. Capable of writing scripts."
-  url: "https://git-scm.com/"
+  url: "https://windows.com/"
