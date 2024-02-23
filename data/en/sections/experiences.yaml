@@ -40,3 +40,16 @@ experiences:
     responsibilities:
     - Do maintenance on computers.
     - Support clients for specific problems.
+- company:
+    name: Cache Valley Transit District
+    url: "https://www.cvtdbus.org"
+    location: Cache Valley, UT & ID
+    logo: /images/sections/experiences/company2.jpg
+    overview: CVTD is an award winning public transit system.
+  positions:
+  - designation: Bus Driver
+    start: May 2023
+    #end: Feb 2022
+    responsibilities:
+    - Operate transit buses
+    - Operate paratransit for elderly and chairbound
