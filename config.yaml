@@ -1,7 +1,7 @@
 baseURL: https://aaronherbst.com
 
 languageCode: en-us
-title: "Aaron's Blog"
+title: "Aaron's Portfolio"
 
 # Use Hugo modules to add theme
 module:
