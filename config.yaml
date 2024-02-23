@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://aaronherbst.com
 
 languageCode: en-us
 title: "Aaron's Blog"
@@ -179,7 +179,7 @@ params:
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:
-      enable: true
+      enable: false
       # # If you want to use different country flag for a language, specify them here.
       # flagOverwrites:
       #   - languageCode: en
