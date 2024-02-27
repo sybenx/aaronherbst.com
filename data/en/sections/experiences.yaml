@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Crystal Springs Trucking
     url: "https://www.peterbilt.com"
-    location: Utah
+    location: Utah / Idaho
     #logo: /images/sections/experiences/company1.jpg
     # company overview
     overview: Crystal Springs Trucking is a widely recognized company for hay brokerage and general goods and equipment transportation.
@@ -43,7 +43,7 @@ experiences:
 - company:
     name: Cache Valley Transit District
     url: "https://www.cvtdbus.org"
-    location: Cache Valley, UT & ID
+    location: Logan, UT
     #logo: /images/sections/experiences/company2.jpg
     overview: CVTD is an award winning public transit system.
   positions:
