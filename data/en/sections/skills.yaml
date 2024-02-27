@@ -22,7 +22,7 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "3+ years of experience."
+  summary: "5+ years of experience."
   url: "https://en.wikipedia.org/wiki/Linux"
 
 - name: Git
@@ -32,5 +32,5 @@ skills:
 
 - name: Windows
   #logo: /images/sections/skills/windows.png
-  summary: "10+ years of experience. Capable of writing scripts."
+  summary: "15+ years of experience. Capable of writing scripts."
   url: "https://windows.com/"
