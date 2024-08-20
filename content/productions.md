@@ -2,6 +2,6 @@ Aaron Herbst - Video and Photography Productions
 
 {{< youtube cHWoLsH65zs >}}
 
-  email: "herbstaaronb@gmail.com"
+  [herbstaaronb@gmail.com](mailto:herbstaaronb@gmail.com)"
   
-  YouTube: "https://www.youtube.com/@AaronHerbstProductions"
+  [YouTube - Aaron Herbst Productions](https://www.youtube.com/@AaronHerbstProductions)
