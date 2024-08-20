@@ -4,4 +4,4 @@ Aaron Herbst - Video and Photography Productions
 
   [herbstaaronb@gmail.com](mailto:herbstaaronb@gmail.com)"
   
-  [YouTube - Aaron Herbst Productions](https://www.youtube.com/@AaronHerbstProductions)
+  [YouTube](https://www.youtube.com/@AaronHerbstProductions)
