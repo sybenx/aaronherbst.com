@@ -22,7 +22,7 @@ summary: 'I am a passionate computer guru and equipment operator with 20 years o
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "herbstaaronb@@gmail.com"
+  url: "herbstaaronb@gmail.com"
 
 - name: Github
   icon: "fab fa-youtube"
