@@ -7,17 +7,14 @@ image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "herbstaaronb@gmail.com"
-  #phone: "+14359796167"
+  phone: "+14359796167"
   github: sybenx
-  site: "https://aaro.cc"
 
 # some summary about what you do
 summary:
   - I am a Computer Guru
   - I am a Technician
   - I am a Bus Driver
-  - I am a Web Tinkerer
-  - I am a sysadmin
   - I love servers
   - I work on open-source projects
   - I love to work with machines
