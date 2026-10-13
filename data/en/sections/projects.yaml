@@ -2,9 +2,10 @@
 section:
   name: Projects
   id: projects
-  enable: false
+  enable: true
   weight: 5
   showOnNavbar: true
+  template: sections/projects.html
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -12,28 +13,47 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Apps
+  filter: "app"
+- name: Websites
+  filter: "website"
+- name: Games
+  filter: "game"
 
 # your projects
+projects:
+- name: Cache Rider
+  logo: /images/sections/projects/cacherider.png
+  role: Creator
+  timeline: "Sep 2026 - Present"
+  url: https://cacherider.com
+  repo: https://github.com/sybenx/cacherider
+  summary: Unofficial schedule app for Connect, the Cache Valley Transit District bus. Next buses at any stop, the Transit Center bay by bay, and a map.
+  tags: ["app"]
 
-- name: syb.lol
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
-  #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+- name: Can't ₿e Printed
+  logo: /images/sections/projects/cantbeprinted.png
+  role: Creator
+  timeline: "Oct 2024 - Present"
+  url: https://cantbeprinted.com
+  repo: https://github.com/sybenx/cantbeprinted
+  summary: Every dollar they print makes yours worth less. A plain-language guide to why Bitcoin can't be printed.
+  tags: ["website"]
 
-- name: Gerudoku
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: AarWares
+  logo: /images/sections/projects/aarwares.png
+  role: Creator
+  timeline: "Jul 2023 - Present"
+  url: https://aarwares.com
+  repo: https://github.com/sybenx/aarwares-site
+  summary: Rules and resources for Bartender and Sour Business, card games by Aaron.
+  tags: ["website", "game"]
+
+- name: GeruDoku
+  logo: /images/sections/projects/gerudoku.png
+  role: Maintainer
+  timeline: "Feb 2020 - Apr 2024"
+  url: https://gerudoku.com
+  repo: https://github.com/sybenx/GeruDoku
+  summary: Continuing the GeruDoku Minecraft texture pack for versions 1.15 through 1.19.
+  tags: ["game"]
