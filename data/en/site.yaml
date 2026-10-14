@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2024 Copyright.
+copyright: © Aaron Herbst
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
@@ -25,5 +25,5 @@ openGraph:
   title: Aaron Herbst
   type: website
   description: Portfolio of Aaron Herbst.
-  image: images/author/john.png
+  image: images/site/main-logo.png
   url: https://aaronherbst.com
