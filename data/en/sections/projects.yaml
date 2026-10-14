@@ -28,7 +28,7 @@ projects:
   timeline: "Sep 2026 - Present"
   url: https://cacherider.com
   repo: https://github.com/sybenx/cacherider
-  summary: Unofficial schedule app for Connect, the Cache Valley Transit District bus. Next buses at any stop, the Transit Center bay by bay, and a map.
+  summary: Unofficial schedule app for Connect Transit, the Cache Valley bus. Next buses at any stop, the Transit Center bay by bay, and a map.
   tags: ["app"]
 
 - name: Can't ₿e Printed

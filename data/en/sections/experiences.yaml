@@ -41,11 +41,11 @@ experiences:
     - Do maintenance on computers.
     - Support clients for specific problems.
 - company:
-    name: Cache Valley Transit District
-    url: "https://www.cvtdbus.org"
+    name: Connect Transit
+    url: "https://rideconnectutah.gov"
     location: Logan, UT
     #logo: /images/sections/experiences/company2.jpg
-    overview: CVTD is an award winning public transit system.
+    overview: Connect (formerly Cache Valley Transit District) is an award winning public transit system.
   positions:
   - designation: Bus Driver
     start: May 2023
