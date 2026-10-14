@@ -46,7 +46,7 @@ projects:
   timeline: "Jul 2023 - Present"
   url: https://aarwares.com
   repo: https://github.com/sybenx/aarwares-site
-  summary: Rules and resources for Bartender and Sour Business, card games by Aaron.
+  summary: Rules and resources for Bartender, a card game by Aaron.
   tags: ["website", "game"]
 
 - name: GeruDoku
